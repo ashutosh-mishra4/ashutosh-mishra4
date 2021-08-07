@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/ashutosh-mishra4/ashutosh-mishra4/master/Clear%20Programmer.gif?token=ASL4M5T35TAW43NTNRRIKLTBBZSX4)
+![Header](https://media3.giphy.com/media/n0eI4RrXChXzQhWoC1/giphy.gif?cid=790b76112b4b7c43d0367baab745e07ae5aeb7de02ef52c8&rid=giphy.gif&ct=g)
 
 ### Hi there 👋
 I am Ashutosh Mishra, a self-taught programmer, [content creator](https://www.instagram.com/clearprogrammer), [blogger](https://www.clearprogrammer.com), and Freelancer
