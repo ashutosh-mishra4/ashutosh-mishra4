@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/ashutosh-mishra4/ashutosh-mishra4/master/Clear%20Programmer.gif?token=ASL4M5T35TAW43NTNRRIKLTBBZSX4)
 
 ### Hi there 👋
-I am Ashutosh Mishra, a self-taught programmer, content creator, blogger, and Freelancer
+I am Ashutosh Mishra, a self-taught programmer, [content creator](https://www.instagram.com/clearprogrammer), [blogger](https://www.clearprogrammer.com), and Freelancer
 
 Here are some ideas to get you started:
 
