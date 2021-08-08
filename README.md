@@ -5,7 +5,7 @@ I am Ashutosh Mishra, a self-taught programmer, [content creator](https://www.in
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [JavaScript30 Challenge](https://github.com/ashutosh-mishra4/JavaScript30-Challenge)
+- 🔭 I’m currently working on [Shuttle](https://github.com/ashutosh-mishra4/shuttle)
 - 🌱 I’m currently learning React and Next.js
 - 👯 I’m looking to collaborate on Front-End Development and Technical Content Creation
 - 💬 Ask me about JavaScript, React, Content Creation and Technical Writing
