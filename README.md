@@ -1,7 +1,7 @@
 ![Header](https://media3.giphy.com/media/n0eI4RrXChXzQhWoC1/giphy.gif?cid=790b76112b4b7c43d0367baab745e07ae5aeb7de02ef52c8&rid=giphy.gif&ct=g)
 
 # Hi there 👋
-I am Ashutosh Mishra, a self-taught programmer, [content creator](https://www.instagram.com/clearprogrammer), [blogger](https://www.clearprogrammer.com), and Freelancer
+I am Ashutosh Mishra, a web developer, and Tech Writer.
 
 Here are some ideas to get you started:
 
