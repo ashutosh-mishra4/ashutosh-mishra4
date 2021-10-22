@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh-mishra4" alt="ashutosh-mishra4" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ashutoshmishrae" target="blank"><img src="https://img.shields.io/twitter/follow/clearprogrammer?logo=twitter&style=for-the-badge" alt="clearprogrammer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ashutoshmishrae" target="blank"><img src="https://img.shields.io/twitter/follow/ashutoshmishrae?logo=twitter&style=for-the-badge" alt="clearprogrammer" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ashutoshmishra4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ashutoshmishra4" height="30" width="40" /></a>
-<a href="https://twitter.com/clearprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clearprogrammer" height="30" width="40" /></a>
-<a href="https://instagram.com/clearprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clearprogrammer" height="30" width="40" /></a>
+<a href="https://twitter.com/ashutoshmishrae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clearprogrammer" height="30" width="40" /></a>
+<a href="https://instagram.com/fullstackstage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clearprogrammer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
